@@ -3,7 +3,11 @@
   parent: BaseVessel
   name: Скиталец
   description: Легкий истребитель общего назначения. Рекомендованный состав 2-4 человека
+<<<<<<< HEAD
   price: 97000
+=======
+  price: 103990
+>>>>>>> 58fee2914e89fb1fdec1788f0f59e2b4a750ec65
   category: Medium
   group: Renegate
   access: Renegate

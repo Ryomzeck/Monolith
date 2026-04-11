@@ -3,7 +3,11 @@
   parent: BaseVessel
   name: 'Спринтер'
   description: Средний экспедиционный шаттл.
+<<<<<<< HEAD
   price: 93000
+=======
+  price: 96000
+>>>>>>> 58fee2914e89fb1fdec1788f0f59e2b4a750ec65
   category: Medium
   group: Expedition
   shuttlePath: /Maps/_Forge/Shuttles/Expedition/sprinter.yml

@@ -3,7 +3,7 @@
   parent: BaseVessel
   name: Це-Це
   description: Легкий истребитель восставших колоний. Ты правда собрался на этом воевать?
-  price: 35000
+  price: 42000
   category: Small
   group: Renegate
   access: Renegate

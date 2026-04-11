@@ -3,7 +3,7 @@
   parent: BaseVessel
   name: Це-Це Mk-2
   description: Легкий истребитель восставших колоний, версия с торпедами. Ты правда собрался на этом воевать?
-  price: 42000
+  price: 49000
   category: Small
   group: Renegate
   access: Renegate

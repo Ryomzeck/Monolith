@@ -3,7 +3,7 @@
   parent: BaseVessel
   name: 'Искатель'
   description: Тяжеловооруженный шаттл наемников для исследований в экстремальных боевых условиях
-  price: 165000
+  price: 178000
   category: Medium
   group: Shipyard
   access: Mercenary
